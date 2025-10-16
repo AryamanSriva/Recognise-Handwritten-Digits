@@ -14,7 +14,7 @@ The project uses the **MNIST dataset**, which consists of **70,000 handwritten d
 
 ## Results
 - The model achieves high accuracy on the MNIST dataset (~98%)
-- Visualizations of predicted labels help in understanding misclassifications.
+- Visualizations of predicted labels help in understanding misclassifications
 
 ## Future Improvements
 - Experiment with deeper architectures (CNNs for better accuracy)
