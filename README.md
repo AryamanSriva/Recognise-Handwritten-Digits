@@ -1,4 +1,4 @@
-# Recognize Handwritten Digits Using a Deep Neural Network
+# Recognizing Handwritten Digits Using a Deep Neural Network
 
 This project demonstrates how to use a deep neural network (DNN) to recognize handwritten digits using the MNIST dataset. The implementation is done using PyTorch and the network is trained to classify digits (0-9) from images.
 
